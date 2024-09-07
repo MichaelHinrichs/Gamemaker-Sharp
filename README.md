@@ -1,13 +1,13 @@
 ﻿<div align="center"><img src="https://raw.githubusercontent.com/Radfordhound/Gamemaker-Sharp/master/logos/logo256.png"></img></div>  
 A GML (Short for "Game Maker Language") wrapper for MonoGame/C# made to help developers more easily migrate their games from Game Maker to Monogame.
 
-##Cut to the chase. I'm new to this. How the heck do I use it? :|
+## Cut to the chase. I'm new to this. How the heck do I use it? :|
 Check out the [Getting started guide](https://github.com/Radfordhound/Gamemaker-Sharp/wiki/Getting-Started)! :wink:
 
-##Wait, what? What is this again? O.o
+## Wait, what? What is this again? O.o
 GM-Sharp is a GML wrapper for C#/MonoGame. In other words, it's a big chunk of code that allows MonoGame to understand GML code.
 
-##Why would I want this?
+## Why would I want this?
 Let's say you're a developer who's been using Game Maker for years and is confortable with it, but is now being limited by the engine and wants to move on to actual coding to unlock the full potential of the machine. It may sound like a pretty narrow group of people to some, but in reality the target audience is actually quite broad. And, un-fortunately, a lot of these coders are a bit, shall we say, "scared" to move on to more "professional" coding methods as they fear it'll take too much of their time to learn or be too difficult.
 
 And, in a way, they'd be right. For example, let's take a simple game which draws an object to the screen and moves it around based upon keyboard button presses.
@@ -182,18 +182,16 @@ Now, yes, this still probably seems more complicated to new users. But it's much
 
 The point of this project, quite simply, is to get existing Game Maker users started with "real programming" more comfortably. There's still a slight learning curve, yes, but I plan on remedying that with the help of the guides on [the wiki](https://github.com/Radfordhound/Gamemaker-Sharp/wiki). I hope to help Game Maker users move on more easily! :)
 
-##Wait? It's like Game Maker, but it's free? Is this legal? O.o
+## Wait? It's like Game Maker, but it's free? Is this legal? O.o
 While I'm no lawyer, I see no reason why it wouldn't be! This project contains 100% custom code that simply "looks like" GML. It isn't GML, it's just designed to pretend that it is to make porting Game Maker games easier. And, of course, I'm allowed to distribute my own content!
 
 The best way I can describe this project's legality is that it's relationship to Game Maker/GML is as to Mono's relationship with .NET. Both .NET and Game Maker are copy-righted pieces of work. However, while both Mono and GM-Sharp act a lot like their inspiration, they're not and are custom pieces of code from the ground up. And how's Mono doing, you may ask? Amazingly! Millions of projects around the world are using it, and Microsoft themselves (Creator of the .NET framework Mono seemingly "copied.") has acknowledged it multiple times. Quite simply, as greedy as a company may be, there's no way to copy-right custom work they didn't produce! It's not theirs! They can't own it.
 
 This isn't like taking an official picture of Mickey Mouse and claiming it's yours. This is more like making your own picture of a mouse with light-brites which somewhat resembles mickey, claiming you made **the image**, and stating that it was inspired by Mickey. It's your own work, whether it takes inspiration or not! And while I can't give expert legal advice, there's no reason why that shouldn't be allowed in my opinion.
 
-##What license is this under?
+## What license is this under?
 The MIT license. Yeah, that's right. MIT. Essentially, you can go crazy with it so long as you follow it's super-small list of simple terms. ;)
 
 The only exception being that, while under the MIT license you technically *could* sell this engine... well... just don't. Trust me. **You want to sell games made with this? Go right on ahead!** You can sell games made with MonoGame, which this is built off of (And basically is, in a sense.). So there's no reason you can't here as well! **But selling the actual engine? Nnoooooo. Don't do that. Trust me.**
 
 For more information, see [the license](https://github.com/Radfordhound/Gamemaker-Sharp/blob/master/LICENSE).
-
-##More README content coming soon!
